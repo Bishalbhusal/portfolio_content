@@ -6,5 +6,77 @@
     "summary": "Why EventEmitter exists and how it works internally.",
     "coverImage": "images/blogs/node-event-emitter.png",
     "content": "EventEmitter is a core Node.js module used for handling asynchronous events..."
+  },
+  {
+    "title": "JavaScript Closures Explained",
+    "slug": "js-closures",
+    "date": "2025-01-12",
+    "summary": "Learn how closures work in JavaScript with practical examples.",
+    "coverImage": "images/blogs/js-closures.png",
+    "content": "Closures are functions that have access to variables from another function’s scope..."
+  },
+  {
+    "title": "Mastering Async/Await in Node.js",
+    "slug": "async-await-node",
+    "date": "2025-01-15",
+    "summary": "How to handle asynchronous code cleanly using async/await.",
+    "coverImage": "images/blogs/async-await.png",
+    "content": "Async/Await allows you to write asynchronous code in a synchronous-looking manner..."
+  },
+  {
+    "title": "Introduction to Express.js",
+    "slug": "express-intro",
+    "date": "2025-01-18",
+    "summary": "Learn the basics of Express.js for building Node.js web applications.",
+    "coverImage": "images/blogs/express-intro.png",
+    "content": "Express.js is a minimalist framework for Node.js that simplifies server creation..."
+  },
+  {
+    "title": "Working with MongoDB in Node.js",
+    "slug": "mongodb-node",
+    "date": "2025-01-20",
+    "summary": "How to connect, read, and write to MongoDB using Node.js.",
+    "coverImage": "images/blogs/mongodb-node.png",
+    "content": "MongoDB is a popular NoSQL database. In Node.js, you can use the MongoDB driver..."
+  },
+  {
+    "title": "Node.js Streams Explained",
+    "slug": "node-streams",
+    "date": "2025-01-22",
+    "summary": "A guide to understanding readable, writable, and transform streams in Node.js.",
+    "coverImage": "images/blogs/node-streams.png",
+    "content": "Streams allow you to process data in chunks instead of loading everything into memory..."
+  },
+  {
+    "title": "Handling Files in Node.js",
+    "slug": "node-file-system",
+    "date": "2025-01-25",
+    "summary": "Learn how to read, write, and manage files using Node.js fs module.",
+    "coverImage": "images/blogs/node-fs.png",
+    "content": "The fs module in Node.js provides an API to interact with the file system..."
+  },
+  {
+    "title": "Understanding Node.js Buffers",
+    "slug": "node-buffers",
+    "date": "2025-01-28",
+    "summary": "Learn about buffers in Node.js and how they handle binary data.",
+    "coverImage": "images/blogs/node-buffers.png",
+    "content": "Buffers are used in Node.js to handle raw binary data, which is especially useful for I/O..."
+  },
+  {
+    "title": "REST API Design Principles",
+    "slug": "rest-api-design",
+    "date": "2025-01-30",
+    "summary": "Best practices for designing RESTful APIs with Node.js.",
+    "coverImage": "images/blogs/rest-api.png",
+    "content": "A REST API is a standardized way to build web services. Key principles include statelessness..."
+  },
+  {
+    "title": "Securing Node.js Applications",
+    "slug": "node-security",
+    "date": "2025-02-02",
+    "summary": "Essential tips to secure your Node.js applications.",
+    "coverImage": "images/blogs/node-security.png",
+    "content": "Security is crucial in Node.js apps. This includes handling user input, authentication, and HTTPS..."
   }
 ]
