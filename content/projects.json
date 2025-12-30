@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Portfolio Website",
+    "slug": "portfolio-website",
+    "description": "My personal portfolio built with Next.js",
+    "thumbnail": "images/projects/portfolio.png",
+    "tech": ["Next.js", "Tailwind CSS"],
+    "github": "https://github.com/yourname/portfolio",
+    "live": "https://yourdomain.com"
+  }
+]

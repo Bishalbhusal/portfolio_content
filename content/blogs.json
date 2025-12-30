@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Understanding EventEmitter in Node.js",
+    "slug": "node-event-emitter",
+    "date": "2025-01-10",
+    "summary": "Why EventEmitter exists and how it works internally.",
+    "coverImage": "images/blogs/node-event-emitter.png",
+    "content": "EventEmitter is a core Node.js module used for handling asynchronous events..."
+  }
+]
